@@ -1,0 +1,2 @@
+# Predict_num
+基于fastapi和paddle框架开发的FastAPI包装的手写数字识别模型
